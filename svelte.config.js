@@ -5,5 +5,8 @@ export default {
 		adapter: adapter({
 			fallback: 'index.html',
 		}),
+		paths: {
+			base: '/Geld-boerse2',
+		},
 	},
 }
