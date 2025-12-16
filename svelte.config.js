@@ -1,6 +1,6 @@
 import adapter from '@sveltejs/adapter-static'
 
-const repoName = 'geld-boerse2'
+const repoName = 'Geld-boerse2' // exakt wie dein GitHub-Repo
 
 export default {
 	kit: {
